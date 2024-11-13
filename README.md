@@ -1,2 +1,2 @@
 # Amino-Acid-Composition-Analysis-of-Zika-Virus-Proteins
-Conducted bioinformatic analysis on Zika virus protein sequences, translating nucleotides to amino acids and quantifying amino acid distributions. Utilized Python for computational biology, and visualized results via Matplotlib to elucidate protein composition patterns in Zika virus.
+This bioinformatics pipeline processes DNA sequences from a FASTA file by transcribing them to mRNA, translating them into amino acid sequences, and quantifying amino acid frequencies. The resulting amino acid distribution is visualized, offering insights into the proteomic composition of Zika virus sequences.
